@@ -1,6 +1,7 @@
 # Templete
 
 ## Properties
+![Properties](https://user-images.githubusercontent.com/21966381/115397794-71b15680-a221-11eb-9885-e52a98fb4542.JPG)
 
 ## Shader Code
 
