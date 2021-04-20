@@ -20,6 +20,7 @@ PostEffect Shader(GLSL) for TouchDesigner
 - [Sobel Filter](https://github.com/ogrew/TD-PostEffectShader/tree/main/PostEffects/SobelFilter)
 - [Vignette](https://github.com/ogrew/TD-PostEffectShader/tree/main/PostEffects/Vignette)
 - [Waver](https://github.com/ogrew/TD-PostEffectShader/tree/main/PostEffects/Waver)
+- [Halftone](https://github.com/ogrew/TD-PostEffectShader/tree/main/PostEffects/Halftone)
 
 ## Environment
 TouchDesigner 2020.22080

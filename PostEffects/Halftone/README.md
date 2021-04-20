@@ -1,7 +1,7 @@
-# Templete
+# Halftone
 
 ## Properties
-![Properties](https://user-images.githubusercontent.com/21966381/115397794-71b15680-a221-11eb-9885-e52a98fb4542.JPG)
+![Properties](https://user-images.githubusercontent.com/21966381/115436693-3bd29900-a246-11eb-997a-454ebcb529d2.JPG)
 
 ## Shader Code
 
