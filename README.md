@@ -1,2 +1,2 @@
 # TD-PostEffectShader
-PostEffect Shaders(GLSL) for TouchDesigner
+PostEffect Shader(GLSL) for TouchDesigner
