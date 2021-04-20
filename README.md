@@ -1,7 +1,7 @@
 # TD-PostEffectShader
 PostEffect Shader(GLSL) for TouchDesigner
 
-## Contents
+## 📦 Contents
 - [Barrel Distortion](https://github.com/ogrew/TD-PostEffectShader/tree/main/PostEffects/BarrelDistortion)
 - [Bloom](https://github.com/ogrew/TD-PostEffectShader/tree/main/PostEffects/Bloom)
 - [Blur](https://github.com/ogrew/TD-PostEffectShader/tree/main/PostEffects/Blur)
@@ -22,5 +22,13 @@ PostEffect Shader(GLSL) for TouchDesigner
 - [Waver](https://github.com/ogrew/TD-PostEffectShader/tree/main/PostEffects/Waver)
 - [Halftone](https://github.com/ogrew/TD-PostEffectShader/tree/main/PostEffects/Halftone)
 
-## Environment
+## 🍀 Environment
 TouchDesigner 2020.22080
+
+## 👷 License
+- [MIT](https://github.com/ogrew/TD-PostEffectShader/blob/main/LICENSE)
+
+## ✍ Author
+
+- [Twitter](https://twitter.com/dn0t_)
+- [Instagram](https://www.instagram.com/dn0t_)
