@@ -20,3 +20,5 @@ void main()
 ```
 
 ## Gallery
+
+![KuwaharaFilter](https://user-images.githubusercontent.com/21966381/115665076-b0f4ba00-a37d-11eb-9742-7ff4c8edb4d5.jpg)
