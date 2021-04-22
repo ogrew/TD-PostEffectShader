@@ -21,6 +21,7 @@ PostEffect Shader(GLSL) for TouchDesigner
 - [Vignette](https://github.com/ogrew/TD-PostEffectShader/tree/main/PostEffects/Vignette)
 - [Waver](https://github.com/ogrew/TD-PostEffectShader/tree/main/PostEffects/Waver)
 - [Halftone](https://github.com/ogrew/TD-PostEffectShader/tree/main/PostEffects/Halftone)
+- [Radical Blur](https://github.com/ogrew/TD-PostEffectShader/tree/main/PostEffects/RadicalBlur)
 
 ## 🍀 Environment
 TouchDesigner 2020.22080
