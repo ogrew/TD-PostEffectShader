@@ -6,19 +6,29 @@
 ## Shader Code
 
 ```glsl
-// Example Pixel Shader
-
-// uniform float exampleUniform;
+uniform vec3 level;
+uniform float gamma;
 
 out vec4 fragColor;
+
 void main()
 {
-	// vec4 color = texture(sTD2DInputs[0], vUV.st);
-	vec4 color = vec4(1.0);
-	fragColor = TDOutputSwizzle(color);
+    vec3 c = texture(sTD2DInputs[0], vUV.st).rgb;
+    c = floor(c * level) / (level - 1.0);
+
+    if((c.r+c.g+c.b)/3 > (255/2)) {
+        c = pow(c, vec3(1.0/gamma));
+    }
+
+    vec4 color = vec4(c, 1.0);
+    fragColor = TDOutputSwizzle(color);
 }
 ```
 
 ## Gallery
 
 ![Posterize](https://user-images.githubusercontent.com/21966381/115665102-b81bc800-a37d-11eb-9441-2b2bf2312a63.jpg)
+
+## Reference
+
+https://www.geeks3d.com/20091027/shader-library-posterization-post-processing-effect-glsl/

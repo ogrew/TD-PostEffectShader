@@ -6,16 +6,17 @@
 ## Shader Code
 
 ```glsl
-// Example Pixel Shader
-
-// uniform float exampleUniform;
+uniform float min;
+uniform float max;
 
 out vec4 fragColor;
+
 void main()
 {
-	// vec4 color = texture(sTD2DInputs[0], vUV.st);
-	vec4 color = vec4(1.0);
-	fragColor = TDOutputSwizzle(color);
+    vec2 coord = clamp(vUV.st, min, max);
+    vec4 color = texture(sTD2DInputs[0], coord);
+
+    fragColor = TDOutputSwizzle(color);
 }
 ```
 
