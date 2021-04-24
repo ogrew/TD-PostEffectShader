@@ -24,6 +24,7 @@ PostEffect Shader(GLSL) for TouchDesigner
 - [Radical Blur](https://github.com/ogrew/TD-PostEffectShader/tree/main/PostEffects/RadicalBlur)
 - [Pixel Art](https://github.com/ogrew/TD-PostEffectShader/tree/main/PostEffects/PixelArt)
 - [Water Ripple](https://github.com/ogrew/TD-PostEffectShader/tree/main/PostEffects/WaterRipple)
+- [Dot Screen](https://github.com/ogrew/TD-PostEffectShader/tree/main/PostEffects/DotScreen)
 
 ## 🍀 Environment
 TouchDesigner 2020.22080
