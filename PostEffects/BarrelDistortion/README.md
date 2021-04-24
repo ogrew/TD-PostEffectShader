@@ -1,7 +1,7 @@
 # Barrel Distortion
 
 ## Properties
-![Properties](https://user-images.githubusercontent.com/21966381/115397498-1da67200-a221-11eb-8062-cb3d08b284b1.JPG)
+![Properties](https://user-images.githubusercontent.com/21966381/115966289-d3e2c200-a567-11eb-80ea-4ab538190eb5.JPG)
 
 ## Shader Code
 
