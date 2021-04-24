@@ -6,17 +6,15 @@
 ## Shader Code
 
 ```glsl
-uniform float s1;
-uniform float s2;
+uniform float scale;
+uniform float power;
 out vec4 fragColor;
 
 void main()
 {
-    vec2 uv = vUV.st;
     vec2 center = 2.0* vUV.st - vec2(1.0);
-
-    float barrel = min(1.0 - length(center)*s1, 1.0) * s2;
-    vec2 pos = uv - center * barrel;
+    float barrel = min(1.0 - length(center)*scale, 1.0) * power;
+    vec2 pos = vUV.st - center * barrel;
 
     vec4 color = texture(sTD2DInputs[0], pos);
     fragColor = TDOutputSwizzle(color);
