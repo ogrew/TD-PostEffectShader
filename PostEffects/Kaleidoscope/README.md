@@ -1,7 +1,7 @@
 # Kaleidoscope
 
 ## Properties
-![Properties](https://user-images.githubusercontent.com/21966381/115397366-f9e32c00-a220-11eb-84ef-bbf6805fcb9f.JPG)
+![Properties](https://user-images.githubusercontent.com/21966381/115987296-709c7280-a5ef-11eb-9311-7ffab563f8cf.jpg)
 
 ## Shader Code
 
