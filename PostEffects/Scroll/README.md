@@ -1,4 +1,4 @@
-# RGB Split
+# Scroll
 
 ## Properties
 ![Properties](https://user-images.githubusercontent.com/21966381/115397601-3dd63100-a221-11eb-89bc-ef2b3bc9a5b1.JPG)
