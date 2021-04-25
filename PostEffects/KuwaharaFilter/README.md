@@ -1,7 +1,7 @@
 # Kuwahara Filter
 
 ## Properties
-![Properties](https://user-images.githubusercontent.com/21966381/115397319-ed5ed380-a220-11eb-96aa-4af83ee7e6c3.JPG)
+![Properties](https://user-images.githubusercontent.com/21966381/115987246-3af78980-a5ef-11eb-913c-0b4ced002771.jpg)
 
 ## Shader Code
 
