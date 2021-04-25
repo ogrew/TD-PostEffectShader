@@ -1,7 +1,7 @@
 # RGB Split
 
 ## Properties
-![Properties](https://user-images.githubusercontent.com/21966381/115397453-11221980-a221-11eb-9717-93e23bdc1a04.JPG)
+![Properties](https://user-images.githubusercontent.com/21966381/115987133-b3aa1600-a5ee-11eb-9409-19ff7e31e98c.jpg)
 
 ## Shader Code
 
