@@ -1,7 +1,9 @@
 # Mosaic
 
 ## Properties
-![Properties](https://user-images.githubusercontent.com/21966381/115397763-69f1b200-a221-11eb-9aec-31bb3c3bec77.JPG)
+
+![Properties](https://user-images.githubusercontent.com/21966381/115987091-9117fd00-a5ee-11eb-9e16-bb3107321f36.jpg)
+
 
 ## Shader Code
 
