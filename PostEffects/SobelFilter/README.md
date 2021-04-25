@@ -1,7 +1,7 @@
 # Sobel Filter
 
 ## Properties
-![Properties](https://user-images.githubusercontent.com/21966381/115397542-2f881500-a221-11eb-99ee-f03c5b881fa4.JPG)
+![Properties](https://user-images.githubusercontent.com/21966381/115987225-1ef3e800-a5ef-11eb-9539-afd35d6c107f.jpg)
 
 ## Shader Code
 
