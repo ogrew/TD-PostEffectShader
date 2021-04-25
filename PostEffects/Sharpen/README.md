@@ -1,7 +1,7 @@
-# RGB Split
+# Sharpen
 
 ## Properties
-![Properties](https://user-images.githubusercontent.com/21966381/115397191-cbfde780-a220-11eb-9866-8bca851a3479.JPG)
+![Properties](https://user-images.githubusercontent.com/21966381/115987348-a04b7a80-a5ef-11eb-9fa5-2dc5c128414e.jpg)
 
 ## Shader Code
 
