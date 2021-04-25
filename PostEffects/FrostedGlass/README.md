@@ -1,7 +1,7 @@
 # Frosted Glass
 
 ## Properties
-![Properties](https://user-images.githubusercontent.com/21966381/115397744-63fbd100-a221-11eb-8916-9830be5ecc6c.JPG)
+![Properties](https://user-images.githubusercontent.com/21966381/115987270-56fb2b00-a5ef-11eb-9150-381ab2aa1c2b.jpg)
 
 ## Shader Code
 
