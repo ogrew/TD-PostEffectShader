@@ -1,7 +1,7 @@
 # Blur
 
 ## Properties
-![Properties](https://user-images.githubusercontent.com/21966381/115397427-0bc4cf00-a221-11eb-97bd-536d806092d6.JPG)
+![Properties](https://user-images.githubusercontent.com/21966381/115987168-d0464e00-a5ee-11eb-966e-71d511422b47.jpg)
 
 ## Shader Code
 
