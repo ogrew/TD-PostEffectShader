@@ -5,7 +5,7 @@
 
 ## Shader Code
 
-### <Quarter downsampler>
+### Quarter downsampler
 ```glsl
 out vec4 fragColor;
 
@@ -24,7 +24,7 @@ void main()
 }
 ```
 
-### <Horizontal>
+### Horizontal direction
 ```glsl
 uniform float size;
 
@@ -48,7 +48,7 @@ void main()
 }
 ```
 
-### <Vertical>
+### Vertical direction
 ```glsl
 uniform float size;
 
