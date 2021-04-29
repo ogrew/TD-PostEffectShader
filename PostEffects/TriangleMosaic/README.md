@@ -1,7 +1,7 @@
 # Triangle Mosaic
 
 ## Properties
-![Properties](https://user-images.githubusercontent.com/21966381/115397794-71b15680-a221-11eb-9885-e52a98fb4542.JPG)
+![Properties](https://user-images.githubusercontent.com/21966381/116586865-dde43680-a954-11eb-8fda-b8eee8faa283.JPG)
 
 ## Shader Code
 
@@ -30,7 +30,7 @@ void main()
 
 ## Gallery
 
-![Templete](https://user-images.githubusercontent.com/21966381/115665440-48f2a380-a37e-11eb-8693-3b70fdd8b2fc.jpg)
+![TriangleMosaic](https://user-images.githubusercontent.com/21966381/116586869-de7ccd00-a954-11eb-9c47-8de45e6c2022.jpg)
 
 ## Reference
 
