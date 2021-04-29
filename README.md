@@ -15,6 +15,10 @@ PostEffect Shader(GLSL) for TouchDesigner
 
 ![Mosaic](https://user-images.githubusercontent.com/21966381/115968121-2674ac00-a571-11eb-84c5-c1df4d262639.jpg)
 
+- [Triangle Mosaic](https://github.com/ogrew/TD-PostEffectShader/tree/main/PostEffects/TriangleMosaic)
+
+![TriangleMosaic](https://user-images.githubusercontent.com/21966381/116587549-88f4f000-a955-11eb-91c8-69c3e86fc7d1.jpg)
+
 - [Posterize](https://github.com/ogrew/TD-PostEffectShader/tree/main/PostEffects/Posterize)
 
 ![Posterize](https://user-images.githubusercontent.com/21966381/115968126-28d70600-a571-11eb-8dca-8b6827e322cb.jpg)
