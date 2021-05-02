@@ -97,7 +97,7 @@ PostEffect Shader(GLSL) for TouchDesigner
 
 - [Dot Screen](https://github.com/ogrew/TD-PostEffectShader/tree/main/PostEffects/DotScreen)
 
-![DotScreen](https://user-images.githubusercontent.com/21966381/115968270-042f5e00-a572-11eb-9a1f-57c70f4b1c7a.jpg)
+![DotScreen](https://user-images.githubusercontent.com/21966381/116807669-5cb4bb80-ab6f-11eb-87d8-4e8c76028c3b.jpg)
 
 ## 🍀 Environment
 TouchDesigner 2020.22080
