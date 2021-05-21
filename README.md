@@ -15,6 +15,10 @@ PostEffect Shader(GLSL) for TouchDesigner
 
 ![Mosaic](https://user-images.githubusercontent.com/21966381/115968121-2674ac00-a571-11eb-84c5-c1df4d262639.jpg)
 
+- [Triangle Mosaic](https://github.com/ogrew/TD-PostEffectShader/tree/main/PostEffects/TriangleMosaic)
+
+![TriangleMosaic](https://user-images.githubusercontent.com/21966381/116587549-88f4f000-a955-11eb-91c8-69c3e86fc7d1.jpg)
+
 - [Posterize](https://github.com/ogrew/TD-PostEffectShader/tree/main/PostEffects/Posterize)
 
 ![Posterize](https://user-images.githubusercontent.com/21966381/115968126-28d70600-a571-11eb-8dca-8b6827e322cb.jpg)
@@ -93,7 +97,7 @@ PostEffect Shader(GLSL) for TouchDesigner
 
 - [Dot Screen](https://github.com/ogrew/TD-PostEffectShader/tree/main/PostEffects/DotScreen)
 
-![DotScreen](https://user-images.githubusercontent.com/21966381/115968270-042f5e00-a572-11eb-9a1f-57c70f4b1c7a.jpg)
+![DotScreen](https://user-images.githubusercontent.com/21966381/116807696-7c4be400-ab6f-11eb-9813-7d55b949fa6e.jpg)
 
 ## 🍀 Environment
 TouchDesigner 2020.22080
